@@ -1,3 +1,6 @@
+
 # CS-250-Software-Development-Lifecycle
 
-In order to gather the info I need to implement into a program, I need the user's feedback. After all, the users will be the ones using the program the most, so having the program be tailored around their needs is important. To do this, gathering their feedback and making "user stories" is a crucial step in creating a program that fits their needs, as I
+
+
+In order to gather the info I need to implement into a program, I need the user's feedback. After all, the users will be the ones using the program the most, so having the program be tailored around their needs is important. To do this, gathering their feedback and making "user stories" is a crucial step in creating a program that fits their needs, as I can easily decipher what the user wants in a feature, as well as why they want it. A proper hierarchy forms in which I can start working on features that range from most important to least important. As of writing, all my projects are not set in stone, and a lot can be changed until I find a program or idea I want to work on until completion. The software development cycle that would help with my current status would be agile, with one key example being the retrospectives. The retrospectives show me what needs improvement, what was done well, and how to be more efficient in the process. And efficiency is a key factor in making a good software developer, at least to me. Yes, efficiency could mean clean and effective code, but it could also mean efficient at communication or efficient at teamwork.  
